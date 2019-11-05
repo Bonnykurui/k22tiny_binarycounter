@@ -1,0 +1,5 @@
+fsl_gpio.h:175:20:GPIO_PortSet	16	static
+fsl_gpio.h:186:20:GPIO_PortClear	16	static
+testk22.c:45:13:delay	16	static
+testk22.c:54:6:decToBinary	40	static
+testk22.c:131:5:main	16	static

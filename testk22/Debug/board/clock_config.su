@@ -1,0 +1,4 @@
+fsl_clock.h:843:20:CLOCK_SetSimSafeDivs	4	static
+clock_config.c:71:13:CLOCK_CONFIG_FllStableDelay	16	static
+clock_config.c:83:6:BOARD_InitBootClocks	8	static
+clock_config.c:149:6:BOARD_BootClockRUN	8	static
